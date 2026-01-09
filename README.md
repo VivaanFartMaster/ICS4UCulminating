@@ -1,4 +1,5 @@
 Creator: Vivaan Srivastav
+
 I am a grade 12 student currently taking the ICS4U course, this is my culminating project.
 
 This project is themed to be a retro first-person shooter. This game recreates the feeling of early 90s shooters using modern Java Swing. The project focuses on mathematical rendering (via Raycasting) combined with standard object-oriented design.
